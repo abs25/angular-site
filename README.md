@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/abs25/angular-site.svg?branch=master)](https://travis-ci.org/abs25/angular-site)https://travis-ci.org/abs25/angular-site.svg?branch=master
+[![Build Status](https://travis-ci.org/abs25/angular-site.svg?branch=master)](https://travis-ci.org/abs25/angular-site)
 
 # AngularSite
 
