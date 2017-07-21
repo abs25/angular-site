@@ -1,3 +1,4 @@
+https://travis-ci.org/abs25/angular-site.svg?branch=master
 # AngularSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.3.
